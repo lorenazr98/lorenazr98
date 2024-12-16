@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Lorena 👋  
 
-<!--
-**lorenazr98/lorenazr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** 💻 and **Audiovisual Producer** 🎥 passionate about creating innovative digital experiences and impactful visual content.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me ⭐
+
+- 🎥 I currently work in the **audiovisual sector**, focusing on **streaming events**. 
+- 📚 I'm studying a **Master's degree in Full-Stack Development**, exploring cutting-edge technologies and expanding my skill set every day.  
+- 🚀 Passionate about learning, I am constantly improving my abilities to create seamless digital experiences and engaging multimedia projects.  
+
+---
+
+## Skills 🚀  
+
+### Frontend  
+- **Languages**: HTML, CSS, JavaScript, TypeScript  
+- **Frameworks & Libraries**: ReactJS  
+
+### Backend  
+- **Languages**: Python  
+- **Frameworks**: Django  
+- **Databases**: SQL  
+
+---
+
+## Contact me 📱
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lorena-zurbano/)  
+- 📩 contacto@lorenazurbano.com  
