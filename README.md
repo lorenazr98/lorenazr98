@@ -15,7 +15,7 @@ I'm a **Full-Stack Developer** 💻 and **Audiovisual Producer** 🎥 passionate
 ## Skills 🚀  
 
 ### Frontend  
-- **Languages**: HTML, CSS, JavaScript, TypeScript  
+- **Languages**: HTML, CSS, JavaScript 
 - **Frameworks & Libraries**: ReactJS  
 
 ### Backend  
