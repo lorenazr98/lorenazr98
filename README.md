@@ -6,7 +6,7 @@ I'm a **Full-Stack Developer** 💻 and **Audiovisual Producer** 🎥 passionate
 
 ## About Me ⭐
 
-- 🎥 I currently work in the **audiovisual sector**, focusing on **streaming events**. 
+- 🎥 I used to work in the **audiovisual sector**, focusing on **streaming events**. 
 - 📚 I'm studying a **Master's degree in Full-Stack Development**, exploring cutting-edge technologies and expanding my skill set every day.  
 - 🚀 Passionate about learning, I am constantly improving my abilities to create seamless digital experiences and engaging multimedia projects.  
 
